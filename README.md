@@ -26,7 +26,7 @@ Folder             | Description
 
 SF ID. |  Name   |    Features    |  Issuess Raised |     Issues Resolved|      No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`27674` | Pankaj Prajapati  | BanKing Management(accepting, Deposit,etc..)    |  No     |  No   | 4   | 4     
+`99006205` | Pankaj Prajapati  | BanKing Management(accepting, Deposit,etc..)    |  No     |  No   | 4   | 4     
    
 
 ## Challenges Faced and How Was It Overcome
