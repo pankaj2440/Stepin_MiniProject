@@ -7,9 +7,9 @@ A bank is a financial institution that accepts deposits from the public and crea
 
 click url for Visit: 
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option) |Code Coverage
-------|---------------|-------|--------------|--------------
- [![BUILD]()] | <img src="https://www.code-inspector.com/project/27674/score/svg" alt="code inspector badge" /> | <img src="https://www.code-inspector.com/project/27674/status/svg" alt="code inspector badge" />
+Build | Code Quality | Unity | [Git Inspector](using github.io option) 
+------|---------------|-------|--------------
+ [![BUILD](https://github.com/pankaj2440/Stepin_MiniProject/actions/workflows/Build.yml/badge.svg)](https://github.com/pankaj2440/Stepin_MiniProject/actions/workflows/Build.yml) | <img src="https://www.code-inspector.com/project/27674/score/svg" alt="code inspector badge" /> | <img src="https://www.code-inspector.com/project/27674/status/svg" alt="code inspector badge" /> | [![Git Inspector](https://github.com/pankaj2440/Stepin_MiniProject/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/pankaj2440/Stepin_MiniProject/actions/workflows/Git_Inspector.yml)
 </a>
 
 
@@ -26,7 +26,7 @@ Folder             | Description
 
 SF ID. |  Name   |    Features    |  Issuess Raised |     Issues Resolved|      No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`3` | Pankaj Prajapati  | BanKing Management(accepting, Deposit,etc..)    |  No     |  No   | 4   | 4     
+`27674` | Pankaj Prajapati  | BanKing Management(accepting, Deposit,etc..)    |  No     |  No   | 4   | 4     
    
 
 ## Challenges Faced and How Was It Overcome
