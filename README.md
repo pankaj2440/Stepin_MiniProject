@@ -9,3 +9,6 @@ click url for Visit:
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option) |Code Coverage
 ------|---------------|-------|--------------|--------------
+ <img src="https://www.code-inspector.com/project/27674/score/svg" alt="code inspector badge" /> | <img src="https://www.code-inspector.com/project/27674/status/svg" alt="code inspector badge" />
+</a>
+
