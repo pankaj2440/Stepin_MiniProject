@@ -11,6 +11,7 @@ struct customer c[1]={{101,"pankaj",400}};
 void test_search(void)
 {
   TEST_ASSERT_EQUAL(0, search(c,1,101));
+  
   TEST_ASSERT_EQUAL(-1, search(c,1,0));
 }
 int main()

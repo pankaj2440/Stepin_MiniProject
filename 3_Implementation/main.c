@@ -17,6 +17,7 @@
  */
 int main()
 {
+    
     struct customer data[30];
     int n, choice, index, account_no, amount;
     printf("Banking System\n\n");

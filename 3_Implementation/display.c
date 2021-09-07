@@ -9,6 +9,7 @@
 void display(struct customer list[120], int s)
 {
     int i;
+    
 
     printf("\n\nA/c No\tName\tBalance\n");
     for (i = 0; i < s; i++)

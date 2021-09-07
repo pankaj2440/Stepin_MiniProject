@@ -22,6 +22,7 @@
  */
 struct customer
 {
+    
     int account_no;
     char name[120];
     int balance;

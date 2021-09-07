@@ -8,6 +8,7 @@
  * @param number account number of customer 
  * @param amt deposit amount
  */
+
 void deposit(struct customer list[], int s, int number, int amt)
 {
     int i = search(list, s, number);
