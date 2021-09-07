@@ -28,6 +28,7 @@ extern "C"
  * If using unity directly, these will need to be provided for each test
  * executable built. If you are using the test runner generator and/or
  * Ceedling, these are optional. */
+
 void setUp(void);
 void tearDown(void);
 
